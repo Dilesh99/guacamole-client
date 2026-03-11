@@ -18,14 +18,15 @@
  */
 
 .notification {
-    border: 1px solid rgba(0, 0, 0, 0.25);
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
-    background: white;
-    color: black;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    background: #2d2d44;
+    color: #e0e0e0;
 }
 
 .notification.error {
-    background: #FDD;
+    background: #5c2d2d;
+    color: #ffaaaa;
 }
 
 .notification .body {

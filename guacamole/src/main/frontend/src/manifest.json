@@ -1,12 +1,12 @@
 {
-    "name": "Guacamole",
-    "short_name": "Guacamole",
-    "description": "Guacamole",
+    "name": "VDE",
+    "short_name": "VDE",
+    "description": "Virtual Desktop Environment",
     "start_url": ".",
     "display": "standalone",
     "icons": [
         {
-            "src": "./images/logo-vector.svg",
+            "src": "./images/vde-logo.svg",
             "type": "image/svg+xml",
             "sizes": "512x512"
         },

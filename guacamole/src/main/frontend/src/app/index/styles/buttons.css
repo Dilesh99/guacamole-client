@@ -27,8 +27,8 @@ input[type="submit"], button, a.button {
     -webkit-appearance: none;
     text-decoration: none;
 
-    background-color: #3C3C3C;
-    border: 1px solid rgba(0, 0, 0, 0.4);
+    background-color: #0f3460;
+    border: 1px solid rgba(0, 217, 255, 0.4);
 
     color: white;
     text-shadow: -1px -1px rgba(0, 0, 0, 0.3);
@@ -45,12 +45,12 @@ input[type="submit"], button, a.button {
 }
 
 input[type="submit"]:hover, button:hover, a.button:hover {
-    background-color: #5A5A5A;
+    background-color: #1a4a7a;
 }
 
 input[type="submit"]:active, button:active, a.button:active {
 
-    background-color: #2C2C2C;
+    background-color: #0a2540;
     
     box-shadow: 
                 inset 1px 1px 0.25em rgba(0, 0, 0, 0.25),
@@ -71,7 +71,7 @@ button.danger:active, a.button.danger:active {
 }
 
 input[type="submit"]:disabled, button:disabled, button.danger:disabled {
-    background-color: #3C3C3C;
+    background-color: #0f3460;
     color: rgba(255, 255, 255, 0.5);
     opacity: 0.75;
 }
